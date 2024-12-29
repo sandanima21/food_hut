@@ -61,7 +61,7 @@
                 </li>
             </ul>
             <a class="navbar-brand m-auto" href="{{url('/')}}">
-                <img src="assets/imgs/logo.svg" class="brand-img" alt="">
+                <img src="public\assets\imgs\ll.jpg" class="brand-img" alt="">
                 <span class="brand-txt">Food Hut</span>
             </a>
             <ul class="navbar-nav">

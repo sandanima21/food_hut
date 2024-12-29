@@ -12,7 +12,7 @@
         th{
             color: white;
             font-weight: bold;
-            font-size: 18px;
+            font-size: 14px;
             text-align: center;
             background-color: red;
             padding: 10px;
@@ -21,8 +21,7 @@
             color: white;
             font-weight: bold;
             text-align: center;
-            padding: 10px;
-        }
+            padding: 8px;font-size: 14px;}
     </style>
   </head>
   <body>
